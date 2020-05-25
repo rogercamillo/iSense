@@ -8,8 +8,8 @@ export default () => {
   return (
     <BrowserRouter>
       {/* <Switch> */}
-      <Route exact path="/isense" component={Main} />
-      <Route path="/isense/list" component={List} />
+      <Route exact path="/iSense" component={Main} />
+      <Route path="/iSense/list" component={List} />
       {/* </Switch> */}
     </BrowserRouter>
   );

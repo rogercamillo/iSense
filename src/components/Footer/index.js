@@ -19,7 +19,7 @@ export default () => {
         </span>
         <span>
           um convite bem incomum mas com bastante carinho de{" "}
-          <span onClick={() => history.push("/isense/list")}>roger</span> para
+          <span onClick={() => history.push("/iSense/list")}>roger</span> para
           você. :)
         </span>
         <div>
